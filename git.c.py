@@ -1,2 +1,3 @@
 a = hi
-print(a)
+b = hello
+print(a,b)
